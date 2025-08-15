@@ -16,18 +16,18 @@ Database: MySQL
 For the purpose of this exercise, I uploaded the dataset into MySQL so I could practice connecting it directly to Power BI. This allowed me to replicate the same analysis process in Power BI, gain hands-on experience with live database connections, and compare workflows between Excel and Power BI.
 To tackle this challenge, I leveraged modern Excel tools to streamline the workflow:
 
-Power Query to connect to multiple sources, extract the necessary data, and transform it into a clean, consistent format.
+>> Power Query to connect to multiple sources, extract the necessary data, and transform it into a clean, consistent format.
 
-Power Pivot to build a relational data model that linked all datasets together without writing complex formulas.
+>> Power Pivot to build a relational data model that linked all datasets together without writing complex formulas.
 
-DAX (Data Analysis Expressions) to create calculated measures for advanced metrics like total revenue, sales by product category, and year-over-year performance.
+>> DAX (Data Analysis Expressions) to create calculated measures for advanced metrics like total revenue, sales by product category, and year-over-year performance.
 
 Once the model was in place, I designed an interactive sales dashboard using Pivot Charts and slicers. This allowed regional sales managers to quickly filter and analyze data by region, product category, and time period, enabling them to identify revenue trends and top-performing products.
 
 The result was a single, dynamic report that consolidated multiple messy data sources into a clear, actionable tool to delivered on time and ready to support business decisions.
 
 Learning Takeaways
-1.Learnt how to connect data from multiple sources into Excel
-2.Learnt how import database into MySQL and linked it into Excel
-3.Learnt how to create visualizations using Excel by leveraging Pivot Table, Power Query and Pivot Chart and consolidated them into a dashboard
+1. Learnt how to connect data from multiple sources into Excel
+2. Learnt how import database into MySQL and linked it into Excel
+3. Learnt how to create visualizations using Excel by leveraging Pivot Table, Power Query and Pivot Chart and consolidated them into a dashboard
 
