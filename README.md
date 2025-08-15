@@ -5,6 +5,7 @@
 Source-The data set is taken from Maven Analytics Youtube Channel: https://www.youtube.com/watch?v=GsjCixoyOnE&t=2s
 
 Objective  
+
 The purpose of this dashboard is to analyze revenue trend over year and to slice and dice revenue and total order by country and product category. By knowking the sales revenue trend, this would help company make informed decision on how to boost their sales by diiferent apporach via marketing, ads and seasonal promotion
 
 For this project, I took on the role of a Data Analyst at Resonance Electronics, a global electronics retailer. I was tasked with delivering a brand-new sales performance report for regional managers with the catch that the data was scattered across SQL databases, CSV files, and static PDF.
