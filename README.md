@@ -1,4 +1,4 @@
-# Sales-Dashboard
+# Sales Dashboard
 
 ![image](Sales-Dashboard.png)
 
